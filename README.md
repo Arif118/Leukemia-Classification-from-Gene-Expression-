@@ -85,7 +85,7 @@ The goal of this project is to combine bioinformatics and machine learning techn
 
 ## Author
 
-Md. Arif Hasnat
-First-Year Undergraduate Student
-Department of Bioinformatics Engineering,
-Bangladesh Agricultural University,Bangladesh
+Md. Arif Hasnat,
+First-Year Undergraduate Student, 
+Department of Bioinformatics Engineering, 
+Bangladesh Agricultural University, Bangladesh
